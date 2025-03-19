@@ -21,3 +21,7 @@ Of course the output path can be chosen at your will. You can either use the .tx
   <img src="/media/image7.png" alt="Image 7" style="width: 200px; max-width: 200px;">
   <img src="/media/image8.png" alt="Image 8" style="width: 200px; max-width: 200px;">
 </div>
+
+<hr>
+
+Do not forget to run check the <b>requirements.txt</b> for the libraries you need to have. Hope this code will help you with your work! Happy innovation!
