@@ -12,12 +12,12 @@ Of course the output path can be chosen at your will. You can either use the .tx
 <br>
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;">
-  <img src="image1.png" alt="Image 1" style="width: 200px; max-width: 200px;">
-  <img src="image2.png" alt="Image 2" style="width: 200px; max-width: 200px;">
-  <img src="image3.png" alt="Image 3" style="width: 200px; max-width: 200px;">
-  <img src="image4.png" alt="Image 4" style="width: 200px; max-width: 200px;">
-  <img src="image5.png" alt="Image 5" style="width: 200px; max-width: 200px;">
-  <img src="image6.png" alt="Image 6" style="width: 200px; max-width: 200px;">
-  <img src="image7.png" alt="Image 7" style="width: 200px; max-width: 200px;">
-  <img src="image8.png" alt="Image 8" style="width: 200px; max-width: 200px;">
+  <img src="/media/image1.png" alt="Image 1" style="width: 200px; max-width: 200px;">
+  <img src="/media/image2.png" alt="Image 2" style="width: 200px; max-width: 200px;">
+  <img src="/media/image3.png" alt="Image 3" style="width: 200px; max-width: 200px;">
+  <img src="/media/image4.png" alt="Image 4" style="width: 200px; max-width: 200px;">
+  <img src="/media/image5.png" alt="Image 5" style="width: 200px; max-width: 200px;">
+  <img src="/media/image6.png" alt="Image 6" style="width: 200px; max-width: 200px;">
+  <img src="/media/image7.png" alt="Image 7" style="width: 200px; max-width: 200px;">
+  <img src="/media/image8.png" alt="Image 8" style="width: 200px; max-width: 200px;">
 </div>
