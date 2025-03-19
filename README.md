@@ -1,1 +1,1 @@
-# synthetic-data-generator-for-event-cameras
+# Synthetic data generator for event cameras
